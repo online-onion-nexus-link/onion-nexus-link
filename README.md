@@ -45,4 +45,6 @@ To successfully navigate Nexus, you should consider these safety precautions:
 
 This guide is solely for educational purposes. The content supplied is meant to improve understanding of darknet operations. We neither endorse nor promote any illegal activities. Always comply with the laws and regulations of your specific jurisdiction.
 
-Update:  26.06.2025 09:05 link is back online and live
+
+
+Update: Corrected broken authentication guide links
