@@ -47,4 +47,6 @@ This guide is solely for educational purposes. The content supplied is meant to 
 
 
 
-Update: Corrected broken authentication guide links
+
+
+Update:  07/07/2025 11-56-28 Fixed broken url, now live and functioning
